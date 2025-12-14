@@ -268,9 +268,11 @@ dependencies:
       - networkx==3.6.1
       - safetensors==0.7.0
       - scipy==1.16.3
+      - sonopy==0.1.2
       - sympy==1.13.1
       - textblob==0.18.0.post0
       - tokenizers==0.21.4
       - torch==2.5.1
       - transformers==4.47.1
+      - vader==0.0.3
       - vadersentiment==3.3.2

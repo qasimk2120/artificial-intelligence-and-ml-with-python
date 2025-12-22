@@ -1,0 +1,13 @@
+# environments
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+
+# models / checkpoints
+fine_tuned_model/
+test_trainer/
+checkpoint-*/
+
+# data caches
+.cache/

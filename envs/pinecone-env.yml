@@ -1,0 +1,5 @@
+﻿name: pinecone-env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\qk710\anaconda3\envs\pinecone-env
